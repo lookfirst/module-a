@@ -1,0 +1,8 @@
+[
+	{
+		"stateName": "module",
+		"urlPrefix": "/module",
+		"type": "load",
+		"src": "app/module/module"
+	}
+]
